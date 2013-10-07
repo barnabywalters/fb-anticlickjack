@@ -1,0 +1,13 @@
+{
+  "kango_version": "1.2.4 744e69cf4136", 
+  "content_scripts": [
+    "anticlickjack.js"
+  ], 
+  "description": "Remove facebook\u2019s ability to intercept your own", 
+  "creator": "Barnaby Walters", 
+  "package_id": "kango-d0e9cf17-a594-4205-a748-2cfedb1269e2", 
+  "homepage_url": "http://waterpigs.co.uk", 
+  "version": "0.9.0", 
+  "id": "{D0E9CF17-A594-4205-A748-2CFEDB1269E2}", 
+  "name": "facebook-anticlickjack"
+}

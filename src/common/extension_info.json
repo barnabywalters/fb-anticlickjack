@@ -1,0 +1,8 @@
+{
+  "content_scripts": ["anticlickjack.js"],
+  "description": "Remove facebook’s ability to intercept your own",
+  "creator": "Barnaby Walters",
+  "homepage_url": "http://waterpigs.co.uk",
+  "version": "0.9.0",
+  "name": "facebook-anticlickjack"
+}
