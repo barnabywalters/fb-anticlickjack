@@ -1,7 +1,7 @@
 fb-anticlickjack
 ================
 
-A cross-browser extension which automatically undoes facebook’s downright shady link destination swapping.
+A cross-browser extension which automatically undoes facebook’s downright shady link destination swapping. More at waterpigs.co.uk/notes/4SRLft/
 
 ## How to Install
 
@@ -32,9 +32,9 @@ Then, depending on your browser:
 	1. Open /output/fbanticlickjack_0.9.0.oex
 	2. It will install and show you where the button is
 	
-	## Why?
+## Why?
 	
-	Facebook does some über shady stuff. Take a look at this link markup:
+Facebook does some über shady stuff. Take a look at this link markup:
 	
 	<a href="http://action.sumofus.org/a/world-food-prize-monsanto-syngenta/5/4/?sub=fb"
 		target="_blank"
